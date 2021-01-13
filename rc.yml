@@ -12,7 +12,7 @@ spec:
      labels:
        app: web
      
-  spec:
+    spec:
      containers:
      - name: "myc1"
        image: "vimal13/apache-webserver-php"
